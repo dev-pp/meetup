@@ -22,7 +22,7 @@ Horário | | Apresentador
 
 Apresentação dos organizadores, palestrantes e a proposta do meetup.
 
-
+ 
 
 #### Indústria 4.0
 --------------------
