@@ -10,7 +10,7 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 Horário | | Apresentador
 ------- | - | ------
 18:45 | [Abertura](#abertura) | Organizadores
-19:00 | [Industria 4.0](#industria-4-0) | Alessando Altino
+19:00 | [Industria 4.0](#indústria-40) | Alessando Altino
 19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | Joao Cunha
 20:00 | [Demo: Banco de Dados Realtime com Firebase](#demo-banco-de-dados-realtime-com-firebase) | Felipe Blini
 20:30 | [A Definir](#deyvisson) | Deyvisson
@@ -20,7 +20,7 @@ Horário | | Apresentador
 #### Abertura
 --------------------
 
-Apresentacao dos organizadores e palestrantes e a proposta do meetup.
+Apresentação dos organizadores, palestrantes e a proposta do meetup.
 
 #### Indústria 4.0
 --------------------
@@ -51,3 +51,11 @@ Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum
 --------------------
 
 Agradecimentos, (mais)cerveja e networking
+
+
+### Local
+
+**Forspace**
+Rua Nicolau Cacciatori, 489
+Presidente Prudente- SP
+[https://www.forspace.com.br/](https://www.forspace.com.br/)
