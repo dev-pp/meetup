@@ -10,12 +10,12 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 Horário | | Apresentador
 ------- | - | ------
 18:45 | [Abertura](#abertura) | Organizadores
-19:00 | [Industria 4.0](#industria40) | Alessando Altino
-19:30 | [Trabalho Remoto e Carreira Internacional](#trabalhoremote) | Joao Cunha
-20:00 | [Demo: Banco de Dados Realtime com Firebase](#BancodeDadosRealtimecomFirebase) | Felipe Blini
-20:30 | [A Definir](#Wyndersson) | Wyndersson
-21:00 | [React Native](#ReactNative) | Renan
-21:30 | [Fechamento e Confraternização](#FechamentoeConfraternização) | Organizadores
+19:00 | [Industria 4.0](#industria-4-0) | Alessando Altino
+19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remote-e-carreira-internacional) | Joao Cunha
+20:00 | [Demo: Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
+20:30 | [A Definir](#wyndersson) | Wyndersson
+21:00 | [React Native](#react-native) | Renan
+21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Organizadores
 
 #### Abertura
 --------------------
