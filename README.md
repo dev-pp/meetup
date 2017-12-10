@@ -20,7 +20,7 @@ Horário | | Apresentador
 #### Abertura
 --------------------
 
-Apresentação dos organizadores, palestrantes e a proposta do meetup.
+Apresentação dos organizadores, palestrantes e a proposta do meetup.  
 
  
 
