@@ -12,8 +12,8 @@ Horário | | Apresentador
 18:45 | [Abertura](#abertura) | Organizadores
 19:00 | [Industria 4.0](#industria-4-0) | Alessando Altino
 19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | Joao Cunha
-20:00 | [Demo: Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
-20:30 | [A Definir](#wyndersson) | Deyvisson
+20:00 | [Demo: Banco de Dados Realtime com Firebase](#demo-banco-de-dados-realtime-com-firebase) | Felipe Blini
+20:30 | [A Definir](#deyvisson) | Deyvisson
 21:00 | [React Native](#react-native) | Renan
 21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Organizadores
 
@@ -37,7 +37,7 @@ Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum
 
 O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupacao com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
 
-#### Wyndersson
+#### Deyvisson
 --------------------
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
