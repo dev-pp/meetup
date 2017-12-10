@@ -22,6 +22,8 @@ Horário | | Apresentador
 
 Apresentação dos organizadores, palestrantes e a proposta do meetup.
 
+
+
 #### Indústria 4.0
 --------------------
 
@@ -32,25 +34,35 @@ Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
+
+
 #### Demo: Banco de Dados Realtime com Firebase
 --------------------
 
 O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupacao com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
+
+
 
 #### Deyvisson
 --------------------
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
+
+
 #### React Native
 --------------------
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
+
+
 #### Fechamento e Confraternização
 --------------------
 
 Agradecimentos, (mais)cerveja e networking
+
+
 
 
 ### Local
