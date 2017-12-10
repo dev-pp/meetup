@@ -55,7 +55,7 @@ Agradecimentos, (mais)cerveja e networking
 
 ### Local
 
-**Forspace**
-Rua Nicolau Cacciatori, 489
-Presidente Prudente- SP
+**Forspace**  
+Rua Nicolau Cacciatori, 489  
+Presidente Prudente-SP  
 [https://www.forspace.com.br/](https://www.forspace.com.br/)
