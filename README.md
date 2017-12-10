@@ -11,9 +11,9 @@ Horário | | Apresentador
 ------- | - | ------
 18:45 | [Abertura](#abertura) | Organizadores
 19:00 | [Industria 4.0](#industria-4-0) | Alessando Altino
-19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-arreira-internacional) | Joao Cunha
+19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | Joao Cunha
 20:00 | [Demo: Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
-20:30 | [A Definir](#wyndersson) | Wyndersson
+20:30 | [A Definir](#wyndersson) | Deyvisson
 21:00 | [React Native](#react-native) | Renan
 21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Organizadores
 
