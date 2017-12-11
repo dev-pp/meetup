@@ -9,45 +9,34 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 
 Horário | | Apresentador
 ------- | - | ------
-18:45 | [Abertura](#abertura) | Organizadores
-19:00 | [Industria 4.0](#indústria-40) | Alessando Altino
-19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | Joao Cunha
-20:00 | [Demo: Banco de Dados Realtime com Firebase](#demo-banco-de-dados-realtime-com-firebase) | Felipe Blini
-20:30 | [A Definir](#deyvisson) | Deyvisson
-21:00 | [React Native](#react-native) | Renan
-21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Organizadores
+18:45 | [Abertura](#abertura) | Alessando Altino
+19:00 | [Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
+19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | João Cunha
+20:00 | [React Native](#react-native) | Renan Pupin
+20:30 | [Business Model Canvas](#business-model-canvas) | Deyvisson Pinheiro
+21:00 | [Programação Funcional](#programação-funcional) | Luiz
+21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Alessando Altino
 
 #### Abertura
 --------------------
 
-Apresentação dos organizadores, palestrantes e a proposta do meetup.  
+Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do meetup.  
 
  
-
-#### Indústria 4.0
+#### Banco de Dados Realtime com Firebase
 --------------------
 
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupação com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
+
+Felipe Blini
+
 
 #### Trabalho Remoto e Carreira Internacional
 --------------------
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
-
-
-#### Demo: Banco de Dados Realtime com Firebase
---------------------
-
-O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupacao com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
-
-
-
-#### Deyvisson
---------------------
-
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
-
+João Cunha
 
 
 #### React Native
@@ -55,13 +44,29 @@ Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
+Renan Pupin
+
+
+#### Business Model Canvas
+--------------------
+
+Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+
+Deyvisson Pinheiro
+
+
+#### Programação Funcional
+--------------------
+
+Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+
+Luiz
 
 
 #### Fechamento e Confraternização
 --------------------
 
 Agradecimentos, (mais)cerveja e networking
-
 
 
 
