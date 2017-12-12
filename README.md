@@ -12,7 +12,7 @@ Horário | | Apresentador
 18:45 | [Abertura](#abertura) | Alessando Altino
 19:00 | [Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
 19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | João Cunha
-20:00 | [React Native](#react-native) | Renan Pupin
+20:00 | [React Native - Produtividade e eficiência no desenvolvimento mobile](#react-native-produtividade-e-eficiência-no-desenvolvimento-mobile) | Renan Pupin
 20:30 | [Business Model Canvas](#business-model-canvas) | Deyvisson Pinheiro
 21:00 | [Programação Funcional](#programação-funcional) | Luiz Stangarlin
 21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Alessando Altino
@@ -21,6 +21,8 @@ Horário | | Apresentador
 --------------------
 
 Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do meetup.  
+
+[Alessando Altino](#)
 
  
 #### Banco de Dados Realtime com Firebase
@@ -39,28 +41,28 @@ O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem 
 [João Cunha](https://joaocunha.net)
 
 
-#### React Native
+#### React Native - Produtividade e eficiência no desenvolvimento mobile
 --------------------
 
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+O React Native tem se destacado no cenário do desenvolvimento mobile, mas quais as vantagens que a tecnologia oferece? Na palestra serão abordados os conceitos, vantagens e os diferenciais da tecnologia, assim como a demonstração do desenvolvimento de uma aplicação.
 
-Renan Pupin
+[Renan Pupin](#)
 
 
 #### Business Model Canvas
 --------------------
 
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+O Business Model Canvas é uma ferramenta simples e visual usada por muitas startups na criação do Modelo de Negócio, é composto por 9 blocos interligados. Nessa palestra será apresentado detalhes dessa ferramenta e etapas para construir os 9 blocos assim como para quê cada bloco existe.
 
-Deyvisson Pinheiro
+[Deyvisson Pinheiro](#)
 
 
 #### Programação Funcional
 --------------------
 
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas e que evita estados ou dados mutáveis. Nessa palestra nós conheceremos os benefícios desse paradigma e as diferenças entre a programação imperativa e orientada a objetos.
 
-Luiz Stangarlin
+[Luiz Stangarlin](#)
 
 
 #### Fechamento e Confraternização
