@@ -83,7 +83,7 @@ Presidente Prudente-SP
 
 Felipe Blini - felipe.blini@gmail.com  
 João Cunha -  [https://joaocunha.net](https://joaocunha.net)
-Gustavo Marquini - 
+Gustavo Marquini - gustavo.marquini@foregon.com
 Alessandro Altino -  
 
 # Apoio
