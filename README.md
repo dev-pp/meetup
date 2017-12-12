@@ -34,9 +34,9 @@ Felipe Blini
 #### Trabalho Remoto e Carreira Internacional
 --------------------
 
-Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
+"Como você foi parar em Dubai?" é uma pergunta recorrente quando me apresento nos eventos de tecnologia. Vou passar um pouco da minha trajetória e como algumas escolhas impactaram minha carreira de desenvolvedor e me levaram para quase 30 países.
 
-João Cunha
+[João Cunha](https://joaocunha.net)
 
 
 #### React Native
@@ -66,13 +66,13 @@ Luiz
 #### Fechamento e Confraternização
 --------------------
 
-Agradecimentos, (mais)cerveja e networking
+Agradecimentos, (mais) cerveja e networking.
 
 
 
 ### Local
 
-**Forspace**  
+**For Space**  
 Rua Nicolau Cacciatori, 489  
 Presidente Prudente-SP  
 [https://www.forspace.com.br/](https://www.forspace.com.br/)
