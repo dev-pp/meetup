@@ -60,7 +60,7 @@ O Business Model Canvas é uma ferramenta simples e visual usada por muitas star
 ### Programação Funcional
 --------------------
 
-programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas e que evita estados ou dados mutáveis. Nessa palestra nós conheceremos os benefícios desse paradigma e as diferenças entre a programação imperativa e orientada a objetos.
+Programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas e que evita estados ou dados mutáveis. Nessa palestra nós conheceremos os benefícios desse paradigma e as diferenças entre a programação imperativa e orientada a objetos.
 
 [Luiz Stangarlin](https://www.facebook.com/luiz.monad)
 
