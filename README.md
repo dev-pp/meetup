@@ -46,7 +46,7 @@ O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem 
 
 O React Native tem se destacado no cenário do desenvolvimento mobile, mas quais as vantagens que a tecnologia oferece? Na palestra serão abordados os conceitos, vantagens e os diferenciais da tecnologia, assim como a demonstração do desenvolvimento de uma aplicação.
 
-[Renan Pupin](#)
+[Renan Pupin](https://www.linkedin.com/in/renanpupin/)
 
 
 ### Business Model Canvas
@@ -83,7 +83,7 @@ Presidente Prudente-SP
 
 Felipe Blini - felipe.blini@gmail.com  
 João Cunha -  [https://joaocunha.net](https://joaocunha.net)
-Gustavo Marquini -  
+Gustavo Marquini - 
 Alessandro Altino -  
 
 # Apoio
