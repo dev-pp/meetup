@@ -78,3 +78,14 @@ Agradecimentos, (mais) cerveja e networking.
 Rua Nicolau Cacciatori, 489  
 Presidente Prudente-SP  
 [https://www.forspace.com.br/](https://www.forspace.com.br/)
+
+# Organizadores
+
+Felipe Blini - felipe.blini@gmail.com
+João Cunha - 
+Gustavo Marquini -
+Alessandro Altino -
+
+# Apoio
+
+![For Space - Cooworking](https://i.imgur.com/exLigqd.png)
