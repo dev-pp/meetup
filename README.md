@@ -81,10 +81,10 @@ Presidente Prudente-SP
 
 # Organizadores
 
-Felipe Blini - felipe.blini@gmail.com
-João Cunha - 
-Gustavo Marquini -
-Alessandro Altino -
+Felipe Blini - felipe.blini@gmail.com  
+João Cunha -  [https://joaocunha.net](https://joaocunha.net)
+Gustavo Marquini -  
+Alessandro Altino -  
 
 # Apoio
 
