@@ -14,7 +14,7 @@ Horário | | Apresentador
 19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | João Cunha
 20:00 | [React Native](#react-native) | Renan Pupin
 20:30 | [Business Model Canvas](#business-model-canvas) | Deyvisson Pinheiro
-21:00 | [Programação Funcional](#programação-funcional) | Luiz
+21:00 | [Programação Funcional](#programação-funcional) | Luiz Stangarlin
 21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Alessando Altino
 
 #### Abertura
@@ -28,7 +28,7 @@ Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do m
 
 O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupação com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
 
-Felipe Blini
+[Felipe Blini](https://www.linkedin.com/in/felipeblini/)
 
 
 #### Trabalho Remoto e Carreira Internacional
@@ -60,7 +60,7 @@ Deyvisson Pinheiro
 
 Maecenas dignissim malesuada sem volutpat tempor. Donec fringilla nisl sed ipsum interdum porttitor. Ut nunc nisl, egestas a quam eget, tempus rhoncus ante. Fusce tincidunt ex quis augue lobortis vehicula. Suspendisse tempor ex a sem ornare, non consequat leo suscipit. Aenean a tincidunt lorem, id sodales erat.
 
-Luiz
+Luiz Stangarlin
 
 
 #### Fechamento e Confraternização
