@@ -10,8 +10,8 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 Horário | | Apresentador
 ------- | - | ------
 18:45 | [Abertura](#abertura) | Alessando Altino
-19:00 | [Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
-19:30 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | João Cunha
+19:00 | [Trabalho Remoto e Carreira Internacional](#trabalho-remoto-e-carreira-internacional) | João Cunha
+19:30 | [Banco de Dados Realtime com Firebase](#banco-de-dados-realtime-com-firebase) | Felipe Blini
 20:00 | [React Native - Produtividade e eficiência no desenvolvimento mobile](#react-native---produtividade-e-eficiência-no-desenvolvimento-mobile) | Renan Pupin
 20:30 | [Business Model Canvas](#business-model-canvas) | Deyvisson Pinheiro
 21:00 | [Programação Funcional](#programação-funcional) | Luiz Stangarlin
