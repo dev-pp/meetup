@@ -28,7 +28,7 @@ Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do m
 ### Banco de Dados Realtime com Firebase
 --------------------
 
-O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupação com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa demo vamos ver como fazer um CRUD usando o Firebase Realtime Database.
+O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem a preocupação com infraestrutura e funcionalidades triviais como autenticação e upload de arquivos. Nessa palestra vamos ver como fazer um CRUD usando o REST API que o Firebase nos fornece e logo depois vamos ver como fazer um chat com o Realtime Database.
 
 [Felipe Blini](https://www.linkedin.com/in/felipeblini/)
 
