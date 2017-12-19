@@ -13,7 +13,7 @@ Horário | | Apresentador
 19:00 | [Infraestrutura com AWS](#Infraestrutura-com-AWS) | Lucas Azambuja
 19:30 | [Industria 4.0](#industria-40) | Alessando Altino
 20:00 | [Engines HTML com Pug](#Engines-HTML-com-Pug) | Murilo Ferreira
-20:30 | [Automatização em Carteiras de Bitcoins](Automatização-em-Carteiras-de-Bitcoins) | Anderson Juhas
+20:30 | [Olá Mundo Bitcoin](Olá-Mundo-Bitcoin) | Anderson Juhas
 21:00 | [Integração de App Híbrido com o Wakatime e Atualização na Play Store](Integração-de-App-Híbrido-com-o-Wakatime-e-Atualização-na-Play-Store) | Felipe Almeida
 21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Alessando Altino
 
@@ -49,7 +49,7 @@ O React Native tem se destacado no cenário do desenvolvimento mobile, mas quais
 [Murilo Ferreira](https://www.linkedin.com/in/renanpupin/)
 
 
-### Automatização em Carteiras de Bitcoins
+### Olá Mundo Bitcoin
 --------------------
 
 O Business Model Canvas é uma ferramenta simples e visual usada por muitas startups na criação do Modelo de Negócio, é composto por 9 blocos interligados. Nessa palestra será apresentado detalhes dessa ferramenta e etapas para construir os 9 blocos assim como para quê cada bloco existe.
