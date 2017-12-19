@@ -85,13 +85,13 @@ Felipe Blini - felipe.blini@gmail.com
 João Cunha - [https://joaocunha.net](https://joaocunha.net)  
 Gustavo Marquini - gustavo.marquini@foregon.com  
 Alessandro Altino - aaltino@gmail.com  
-Thiago Bahia - 
+Thiago Otávio de Freitas - thbahia@outlook.com
 
 # Apoio
 
 ![For Space - Cooworking](https://i.imgur.com/exLigqd.png)
 
-===========================================================================================================================
+--------------------------------------------------------------
 
 ### 1° encontro - 13/12/2017
 
