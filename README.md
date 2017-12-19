@@ -9,15 +9,15 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 
 Horário | | Apresentador
 ------- | - | ------
-18:45 | [Abertura](#abertura) | Alessando Altino
+18:45 | [Abertura 2° encontro](#abertura-2°-encontro) | Alessando Altino
 19:00 | [Infraestrutura com AWS](#Infraestrutura-com-AWS) | Lucas Azambuja
 19:30 | [Industria 4.0](#industria-40) | Alessando Altino
-20:00 | [Engines HTML com Pug](#Engines-HTML-com-Pug) | Murilo Ferreira
+20:00 | [HTML Robusto e Elegante com Template Engines](#HTML-Robusto-e-Elegante-com-Template-Engines) | Murilo Ferreira
 20:30 | [Olá Mundo Bitcoin](Olá-Mundo-Bitcoin) | Anderson Juhas
 21:00 | [Integração de App Híbrido com o Wakatime e Atualização na Play Store](Integração-de-App-Híbrido-com-o-Wakatime-e-Atualização-na-Play-Store) | Felipe Almeida
-21:30 | [Fechamento e Confraternização](#fechamento-e-confraternização) | Alessando Altino
+21:30 | [Fechamento e Confraternização 2° encontro](#fechamento-e-confraternização-2°-encontro) | Alessando Altino
 
-### Abertura
+### Abertura 2° encontro
 --------------------
 
 Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do meetup.  
@@ -41,7 +41,7 @@ O Firebase nos possibilita criar aplicativos web, android e ios rapidamente sem 
 [Alessando Altino](https://joaocunha.net)
 
 
-### Engines HTML com Pug
+### HTML Robusto e Elegante com Template Engines
 --------------------
 
 O React Native tem se destacado no cenário do desenvolvimento mobile, mas quais as vantagens que a tecnologia oferece? Na palestra serão abordados os conceitos, vantagens e os diferenciais da tecnologia, assim como a demonstração do desenvolvimento de uma aplicação.
@@ -65,7 +65,7 @@ Programação funcional é um paradigma de programação que trata a computaçã
 [Felipe Almeida](https://www.facebook.com/luiz.monad)
 
 
-### Fechamento e Confraternização
+### Fechamento e Confraternização 2° encontro
 --------------------
 
 Agradecimentos, (mais) cerveja e networking.
