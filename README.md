@@ -9,13 +9,13 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 
 Horário | | Apresentador
 ------- | - | ------
-18:45 | [Abertura 2° encontro](#abertura-2°-encontro) | Alessando Altino
-19:00 | [Infraestrutura com AWS](#Infraestrutura-com-AWS) | Lucas Azambuja
+18:45 | [Abertura 2° encontro](#abertura-2-encontro) | Alessando Altino
+19:00 | [Infraestrutura com AWS](#infraestrutura-com-aws) | Lucas Azambuja
 19:30 | [Industria 4.0](#industria-40) | Alessando Altino
-20:00 | [HTML Robusto e Elegante com Template Engines](#HTML-Robusto-e-Elegante-com-Template-Engines) | Murilo Ferreira
-20:30 | [Olá Mundo Bitcoin](Olá-Mundo-Bitcoin) | Anderson Juhas
-21:00 | [Integração de App Híbrido com o Wakatime e Atualização na Play Store](Integração-de-App-Híbrido-com-o-Wakatime-e-Atualização-na-Play-Store) | Felipe Almeida
-21:30 | [Fechamento e Confraternização 2° encontro](#fechamento-e-confraternização-2°-encontro) | Alessando Altino
+20:00 | [HTML Robusto e Elegante com Template Engines](#html-robusto-e-elegante-com-template-engines) | Murilo Ferreira
+20:30 | [Olá Mundo Bitcoin](olá-mundo-bitcoin) | Anderson Juhas
+21:00 | [Integração de App Híbrido com o Wakatime e Atualização na Play Store](integração-de-app-híbrido-com-o-wakatime-e-atualização-na-play-store) | Felipe Almeida
+21:30 | [Fechamento e Confraternização 2° encontro](#fechamento-e-confraternização-2-encontro) | Alessando Altino
 
 ### Abertura 2° encontro
 --------------------
