@@ -28,9 +28,21 @@ Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do m
 ### Industria 4.0
 --------------------
 
-...
+A 4a Revolução Industrial não está vindo com suaves ondas do mar, está vindo como um tsunami.
 
-[Alessando Altino](#)
+A mudança é exponencial e ela não vem de uma tecnologia, mas da combinação de várias tecnologias, como:  IOT, Nanotecnologia, AI, novos materiais, etc.
+
+Surgem novos sistemas, não apenas novos produtos: UBER, AIRBNB, FIVERR..
+
+Eles não mudam somente a forma como fazemos as coisas, mas, eles nos mudam.
+
+Temos que nos preparar, em um futuro muito próximo o mundo não estará mais dividido entre paises desenvolvidos - em desenvolvimento, pobres - ricos, mas entre os inovadores e os não inovadores. 
+
+O capital do futuro, será a disponibilidade de talentos, que criam a vantagem competitiva de um país.
+
+É papel dos governos, através de uma Educação inclusiva e de alta qualidade, preparar a sua população para isso, esse é um grande desafio!
+
+[Alessando Altino](https://www.facebook.com/aaltino)
 
 
 ### Infraestrutura com AWS
@@ -62,7 +74,7 @@ Nessa palestra Anderson Juhas vai nos ensinar a gerar uma carteira e fazer trans
 
 ...
 
-[Felipe Almeida](https://www.facebook.com/luiz.monad)
+[Felipe Almeida](https://www.facebook.com/f.albuquerquedealmeida)
 
 
 ### Fechamento e Confraternização 2° encontro
