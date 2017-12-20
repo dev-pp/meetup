@@ -74,7 +74,7 @@ Nessa palestra Anderson Juhas vai nos ensinar a gerar uma carteira e fazer trans
 ### Integração de App Híbrido com o Wakatime e Atualização na Play Store
 --------------------
 
-...
+Nessa palestra o Felipe Almeida vai demonstrar como integrar seu aplicativo Ionic a uma API já existente pode agilizar o processo de desenvolvimento e de aprendizado (caso esteja ainda aprendendo). No exemplo será demonstrado a integração com a API do Wakatime, geração de splash screen e ícones com o Ionic Resources e como atualizar nosso aplicativo na Play Store e detalhes para dar manutenção em um aplicativo e atualizar na loja.
 
 [Felipe Almeida](https://www.facebook.com/f.albuquerquedealmeida)
 
