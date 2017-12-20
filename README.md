@@ -56,7 +56,7 @@ Nessa palestra será apresentado um case de como tornar uma aplicação escaláv
 ### HTML Robusto e Elegante com Template Engines
 --------------------
 
-...
+Nessa palestra Murilo Siqueira vai nos ensinar como utilizar o template engine pug.js para escrever HTML mais dinâmico e reutilizável.
 
 [Murilo Ferreira](https://www.linkedin.com/in/muhroots/)
 
