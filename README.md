@@ -13,7 +13,7 @@ Horário | | Apresentador
 19:00 | [Industria 4.0](#industria-40) | Alessando Altino
 19:30 | [Infraestrutura com AWS](#infraestrutura-com-aws) | Lucas Azambuja
 20:00 | [HTML Robusto e Elegante com Template Engines](#html-robusto-e-elegante-com-template-engines) | Murilo Ferreira
-20:30 | [Olá Mundo Bitcoin](#olá-mundo-bitcoin) | Anderson Juhas
+20:30 | [Olá Mundo Bitcoin](#olá-mundo-bitcoin) | Anderson Juhasc
 21:00 | [Integração de App Híbrido com o Wakatime e Atualização na Play Store](#integração-de-app-híbrido-com-o-wakatime-e-atualização-na-play-store) | Felipe Almeida
 21:30 | [Fechamento e Confraternização 2° encontro](#fechamento-e-confraternização-2-encontro) | Alessando Altino
 
@@ -66,7 +66,7 @@ Nessa palestra será apresentado um case de como tornar uma aplicação escaláv
 
 Nessa palestra Anderson Juhas vai nos ensinar a gerar uma carteira e fazer transações para receber e enviar criptomoedas programaticamente com Node.js.
 
-[Anderson Juhas](http://bitcoinconsultoria.com)
+[Anderson Juhasc](http://bitcoinconsultoria.com)
 
 
 ### Integração de App Híbrido com o Wakatime e Atualização na Play Store
