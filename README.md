@@ -1,4 +1,4 @@
-![DEV PP Comunidade de Desenvolvedores de Presidente Prudente/SP e Região](https://i.imgur.com/n7v3PRe.jpg)
+![DEV PP Comunidade de Desenvolvedores de Presidente Prudente/SP e Região](http://res.cloudinary.com/dwtuxv53y/image/upload/v1516297541/dev-pp-cover_zr7urz.jpg)
 
 # DEV PP
 Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/dev-pp](https://meetup.com/dev-pp)
