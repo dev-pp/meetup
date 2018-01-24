@@ -5,21 +5,21 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 
 ## Eventos
 
-### 3° encontro - 20/12/2017
+### 3° encontro - 30/01/2018
 
 ### Programação
 
 Horário | | Apresentador
 ------- | - | ------
-18:45 | [Abertura 2° encontro](#abertura-2-encontro) | Alessando Altino
+18:45 | [Abertura 3° encontro](#abertura-3-encontro) | João Cunha
 19:00 | [E-commerce no Brasil](#ecommerce-no-brasil) | Fernando Lofrano
-19:30 | [A definir](#) | Paulo Diniz
+19:30 | [SCRUM - Produzindo Mais com Menos Tempo](#SCRUM---Produzindo-Mais-com-Menos-Tempo) | Paulo Diniz
 20:00 | [Design para Devs - Ferramentas para Design Rápido e Prototipação](#Design-para-Devs---Ferramentas-para-Design-Rápido-e-Prototipação) | Paulo Carneiro
 20:30 | [Webpack - Case do Site da DEV-PP](#Webpack---Case-do-Site-da-DEV-PP) | Felipe Blini
 21:00 | [SEO para Devs](#) | J.Valderio dos Santos (Confirmar)
-21:30 | [Fechamento e Confraternização 3° encontro](#fechamento-e-confraternização-3-encontro) | Alessando Altino
+21:30 | [Fechamento e Confraternização 3° encontro](#fechamento-e-confraternização-3-encontro) | João Cunha
 
-### Abertura 2° encontro
+### Abertura 3° encontro
 --------------------
 
 Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do meetup.  
@@ -27,24 +27,12 @@ Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do m
 [João Cunha](https://joaocunha.net)
 
  
-### Industria 4.0
+### E-commerce no Brasil
 --------------------
 
-A 4a Revolução Industrial não está vindo com suaves ondas do mar, está vindo como um tsunami.
 
-A mudança é exponencial e ela não vem de uma tecnologia, mas da combinação de várias tecnologias, como:  IOT, Nanotecnologia, AI, novos materiais, etc.
 
-Surgem novos sistemas, não apenas novos produtos: UBER, AIRBNB, FIVERR..
-
-Eles não mudam somente a forma como fazemos as coisas, mas, eles nos mudam.
-
-Temos que nos preparar, em um futuro muito próximo o mundo não estará mais dividido entre paises desenvolvidos - em desenvolvimento, pobres - ricos, mas entre os inovadores e os não inovadores. 
-
-O capital do futuro, será a disponibilidade de talentos, que criam a vantagem competitiva de um país.
-
-É papel dos governos, através de uma Educação inclusiva e de alta qualidade, preparar a sua população para isso, esse é um grande desafio!
-
-[Alessando Altino](https://www.facebook.com/aaltino)
+[Fernando Lofrano](https://www.facebook.com/aaltino)
 
 
 ### Infraestrutura com AWS
