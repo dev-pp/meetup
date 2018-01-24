@@ -24,7 +24,7 @@ Horário | | Apresentador
 
 Agradecimentos, apresentação dos palestrantes e do meetup.  
 
-[João Cunha](https://joaocunha.net)
+> [João Cunha](https://joaocunha.net)
 
 --------------------
 
@@ -32,7 +32,7 @@ Agradecimentos, apresentação dos palestrantes e do meetup.
 
 Nessa palestra Fernando Lofrano vai nos falar um pouco sobre sua experiência com comércio eletrônico no Brasil, processos, tecnologia e mercado.
 
-[Fernando Lofrano](https://www.linkedin.com/in/lofrano/) é especialista em Cloud Computing, criador da CIRRUS Cloud Backup, Head de Tecnologia da 1pro e CIO na FutFanatics (3° maior e-commerce de materiais esportivos do Brasil)
+> [Fernando Lofrano](https://www.linkedin.com/in/lofrano/) é especialista em Cloud Computing, criador da CIRRUS Cloud Backup, Head de Tecnologia da 1pro e CIO na FutFanatics (3° maior e-commerce de materiais esportivos do Brasil)
 
 --------------------
 
@@ -40,7 +40,7 @@ Nessa palestra Fernando Lofrano vai nos falar um pouco sobre sua experiência co
 
 SCRUM é uma metodologia iterativa e incremental para aumentar a produtividade e eliminar desperdícios em projetos de difícil gerenciamento. Muito importante no desenvolvimento de softwares já que esse tipo de projeto envolve muitas variáveis. Nessa palestra vamos saber um pouco mais sobre essa metodologia.
 
-[Paulo Diniz](https://www.facebook.com/psergiodiniz/) é Consultor e Mentor em TI e CEO na DinizSoft
+> [Paulo Diniz](https://www.facebook.com/psergiodiniz/) é Consultor e Mentor em TI e CEO na DinizSoft
 
 --------------------
 
@@ -48,7 +48,7 @@ SCRUM é uma metodologia iterativa e incremental para aumentar a produtividade e
 
 Nessa palestra vamos conhecer ferramentas que nos auxiliarão a desenvolver um design profissa sem precisar ententer as premissas da criação de elemtos de UI e UX
 
-[Paulo Carneiro](linkedin.com/in/paulo-carneiro-26a156115) é Designer na Foregon.com
+> [Paulo Carneiro](linkedin.com/in/paulo-carneiro-26a156115) é Designer na Foregon.com
 
 --------------------
 
@@ -56,7 +56,7 @@ Nessa palestra vamos conhecer ferramentas que nos auxiliarão a desenvolver um d
 
 O site do DEV-PP acabou de ser lançado e o Felipe Blini vai compartilhar como foi construído o worflow de desenvolvimento com o Webpack e porquê é importante conhecermos essa tecnologia.
 
-[Felipe Blini](http://blini.io) é Desenvolvedor de Softwares há 13 anos, especialista em Front-end, com experiência internacional  em diversos países e idealizador da comunidade DEV-PP.
+> [Felipe Blini](http://blini.io) é Desenvolvedor de Softwares há 13 anos, especialista em Front-end, com experiência internacional  em diversos países e idealizador da comunidade DEV-PP.
 
 --------------------
 
@@ -64,7 +64,7 @@ O site do DEV-PP acabou de ser lançado e o Felipe Blini vai compartilhar como f
 
 Nessa palestra analisaremos o SOCKET, base fundamental para a existência da internet e como podemos utilizá-lo para desenvolver nosso próprio protocolo de comunicação entre dois ou mais pontos. Estudaremos os protocolos atuais baseados em socket e discutiremos como utilizá-lo para o desenvolvimento de sistemas.
 
-[Weslley Ceresa](https://www.linkedin.com/in/weslleyceresa) é Desenvolvedor Web há mais de 7 anos, fundador aa Five's Development & ProDental, empresa de consultoria e desenvolvimento de tecnologia para Startups e da DJW Tecnologia.
+> [Weslley Ceresa](https://www.linkedin.com/in/weslleyceresa) é Desenvolvedor Web há mais de 7 anos, fundador aa Five's Development & ProDental, empresa de consultoria e desenvolvimento de tecnologia para Startups e da DJW Tecnologia.
 
 --------------------
 
