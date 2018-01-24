@@ -12,7 +12,7 @@ Comunidade de Desenvolvedores de Presidente Prudente/SP e Região [meetup.com/de
 Horário | | Apresentador
 ------- | - | ------
 18:45 | [Abertura 3° encontro](#abertura-3-encontro) | João Cunha
-19:00 | [E-commerce no Brasil](#ecommerce-no-brasil) | Fernando Lofrano
+19:00 | [E-commerce no Brasil](#e-commerce-no-brasil) | Fernando Lofrano
 19:30 | [SCRUM - Produzindo Mais com Menos Tempo](#SCRUM---Produzindo-Mais-com-Menos-Tempo) | Paulo Diniz
 20:00 | [Design para Devs - Ferramentas para Design Rápido e Prototipação](#Design-para-Devs---Ferramentas-para-Design-Rápido-e-Prototipação) | Paulo Carneiro
 20:30 | [Webpack - Case do Site da DEV-PP](#Webpack---Case-do-Site-da-DEV-PP) | Felipe Blini
