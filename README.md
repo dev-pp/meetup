@@ -14,9 +14,9 @@ Horário | | Apresentador
 18:45 | [Abertura 3° encontro](#abertura-3-encontro) | João Cunha
 19:00 | [E-commerce no Brasil](#e-commerce-no-brasil) | Fernando Lofrano
 19:30 | [SCRUM - Produzindo Mais com Menos Tempo](#scrum---produzindo-mais-com-menos-tempo) | Paulo Diniz
-20:00 | [Design para Devs - Ferramentas para Design Rápido e Prototipação](#design-para-devs---ferramentas-para-Design-rápido-e-prototipação) | Paulo Carneiro
+20:00 | [Design para Devs - Ferramentas para Design Rápido e Prototipação](#design-para-devs---ferramentas-para-design-rápido-e-prototipação) | Paulo Carneiro
 20:30 | [Webpack - Case do Site da DEV-PP](#webpack---case-do-site-da-dev-pp) | Felipe Blini
-21:00 | [Sistemas de Comunicação em Tempo Real](#Sistemas-de-Comunicação-em-Tempo-Real) | Weslley Ceresa (Confirmar)
+21:00 | [Sistemas de Comunicação em Tempo Real](#sistemas-de-comunicação-em-tempo-real) | Weslley Ceresa (Confirmar)
 21:30 | [Fechamento e Confraternização 3° encontro](#fechamento-e-confraternização-3-encontro) | Organizadores
 
 ### Abertura 3° encontro
