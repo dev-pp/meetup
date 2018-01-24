@@ -16,58 +16,53 @@ Horário | | Apresentador
 19:30 | [SCRUM - Produzindo Mais com Menos Tempo](#SCRUM---Produzindo-Mais-com-Menos-Tempo) | Paulo Diniz
 20:00 | [Design para Devs - Ferramentas para Design Rápido e Prototipação](#Design-para-Devs---Ferramentas-para-Design-Rápido-e-Prototipação) | Paulo Carneiro
 20:30 | [Webpack - Case do Site da DEV-PP](#Webpack---Case-do-Site-da-DEV-PP) | Felipe Blini
-21:00 | [SEO para Devs](#) | J.Valderio dos Santos (Confirmar)
-21:30 | [Fechamento e Confraternização 3° encontro](#fechamento-e-confraternização-3-encontro) | João Cunha
+21:00 | [Sistemas de Comunicação em Tempo Real](#Sistemas-de-Comunicação-em-Tempo-Real) | Weslley Ceresa (Confirmar)
+21:30 | [Fechamento e Confraternização 3° encontro](#fechamento-e-confraternização-3-encontro) | Organizadores
 
 ### Abertura 3° encontro
 --------------------
 
-Agradecimentos, apresentação dos organizadores, palestrantes e a proposta do meetup.  
+Agradecimentos, apresentação dos palestrantes e do meetup.  
 
 [João Cunha](https://joaocunha.net)
 
- 
+--------------------
 ### E-commerce no Brasil
+
+Nessa palestra Fernando Lofrano vai nos falar um pouco sobre sua experiência com comércio eletrônico no Brasil, processos, tecnologia e mercado.
+
+[Fernando Lofrano](https://www.linkedin.com/in/lofrano/) é especialista em Cloud Computing, criador da CIRRUS Cloud Backup, Head de Tecnologia da 1pro e CIO na FutFanatics (3° maior e-commerce de materiais esportivos do Brasil)
 --------------------
 
+### SCRUM - Produzindo Mais com Menos Tempo
 
+SCRUM é uma metodologia iterativa e incremental para aumentar a prudutividade e eliminar disperdícios em projetos de difícil gerenciamento. Muito importante no desenvolvimento de softwares já que esse tipo de projeto envolve muitas variáveis. Nessa palestra vamos saber um pouco mais sobre essa metodologia.
 
-[Fernando Lofrano](https://www.facebook.com/aaltino)
-
-
-### Infraestrutura com AWS
+[Paulo Diniz](https://www.facebook.com/psergiodiniz/) é Consultor e Mentor em TI e CEO na DinizSoft
 --------------------
 
-Nessa palestra será apresentado um case de como tornar uma aplicação escalável na AWS.
+### Design para Devs - Ferramentas para Design Rápido e Prototipação
 
-[Lucas Azambuja](https://www.facebook.com/lucasazambuja42)
+Nessa palestra vamos conhecer ferramentas que nos auxiliarão a desenvolver um design profissa sem precisar ententer as premissas da criação de elemtos de UI e UX
 
-
-### HTML Robusto e Elegante com Template Engines
+[Paulo Carneiro](linkedin.com/in/paulo-carneiro-26a156115) é Designer na Foregon.com
 --------------------
 
-Nessa palestra Murilo Siqueira vai nos ensinar como utilizar o template engine pug.js para escrever HTML mais dinâmico e reutilizável.
+### Webpack - Case do Site da DEV-PP
 
-[Murilo Ferreira](https://www.linkedin.com/in/muhroots/)
+O site do DEV-PP acabou de ser lançado e o Felipe Blini quer compartilhar como foi construido o worflow de desenvolvimento com o Webpack e porquê é importante conhecermos essa tecnologia.
 
-
-### Olá Mundo Bitcoin
+[Felipe Blini](http://blini.io) é Desenvolvedor de Softwares há 13 anos, especialista em Front-end, com experiência internacional  em diversos países e idealizador da comunidade DEV-PP.
 --------------------
 
-Nessa palestra Anderson Juhas vai nos ensinar a gerar uma carteira e fazer transações para receber e enviar criptomoedas programaticamente com Node.js.
+### Sistemas de Comunicação em Tempo Real
 
-[Anderson Juhasc](http://bitcoinconsultoria.com)
+Nessa palestra analisaremos o SOCKET, base fundamental para a existência da internet e como podemos utilizá-lo para desenvolver nosso próprio protocolo de comunicação entre dois ou mais pontos. Estudaremos os protocolos atuais baseados em socket e discutiremos como utilizá-lo para o desenvolvimento de sistemas.
 
-
-### Integração de App Híbrido com o Wakatime e Atualização na Play Store
---------------------
-
-Nessa palestra o Felipe Almeida vai demonstrar como integrar seu aplicativo Ionic a uma API já existente pode agilizar o processo de desenvolvimento e de aprendizado (caso esteja ainda aprendendo). No exemplo será demonstrado a integração com a API do Wakatime, geração de splash screen e ícones com o Ionic Resources e como atualizar nosso aplicativo na Play Store e detalhes para dar manutenção em um aplicativo e atualizar na loja.
-
-[Felipe Almeida](https://www.facebook.com/f.albuquerquedealmeida)
+[Weslley Ceresa](https://www.linkedin.com/in/weslleyceresa) é Desenvolvedor Web há mais de 7 anos, fundador aa Five's Development & ProDental, empresa de consultoria e desenvolvimento de tecnologia para Startups e da DJW Tecnologia.
 
 
-### Fechamento e Confraternização 2° encontro
+### Fechamento e Confraternização 3° encontro
 --------------------
 
 Agradecimentos, (mais) cerveja e networking.
@@ -83,11 +78,12 @@ Presidente Prudente-SP
 
 # Organizadores
 
-Felipe Blini - felipe.blini@gmail.com  
+Felipe Blini - [https://blini.io](https://blini.io)  
 João Cunha - [https://joaocunha.net](https://joaocunha.net)  
 Gustavo Marquini - gustavo.marquini@foregon.com  
-Alessandro Altino - aaltino@gmail.com  
-Thiago Otávio de Freitas - thbahia@outlook.com
+Marcelo Vieira - https://www.facebook.com/Marcelinhomvieira  
+Renan Pupin - https://www.linkedin.com/in/renanpupin/
+Thiago Otávio de Freitas - thbahia@outlook.com  
 
 # Apoio
 
