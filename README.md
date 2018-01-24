@@ -38,7 +38,7 @@ Nessa palestra Fernando Lofrano vai nos falar um pouco sobre sua experiência co
 
 ### SCRUM - Produzindo Mais com Menos Tempo
 
-SCRUM é uma metodologia iterativa e incremental para aumentar a prudutividade e eliminar disperdícios em projetos de difícil gerenciamento. Muito importante no desenvolvimento de softwares já que esse tipo de projeto envolve muitas variáveis. Nessa palestra vamos saber um pouco mais sobre essa metodologia.
+SCRUM é uma metodologia iterativa e incremental para aumentar a produtividade e eliminar desperdícios em projetos de difícil gerenciamento. Muito importante no desenvolvimento de softwares já que esse tipo de projeto envolve muitas variáveis. Nessa palestra vamos saber um pouco mais sobre essa metodologia.
 
 [Paulo Diniz](https://www.facebook.com/psergiodiniz/) é Consultor e Mentor em TI e CEO na DinizSoft
 
@@ -54,7 +54,7 @@ Nessa palestra vamos conhecer ferramentas que nos auxiliarão a desenvolver um d
 
 ### Webpack - Case do Site da DEV-PP
 
-O site do DEV-PP acabou de ser lançado e o Felipe Blini quer compartilhar como foi construido o worflow de desenvolvimento com o Webpack e porquê é importante conhecermos essa tecnologia.
+O site do DEV-PP acabou de ser lançado e o Felipe Blini vai compartilhar como foi construído o worflow de desenvolvimento com o Webpack e porquê é importante conhecermos essa tecnologia.
 
 [Felipe Blini](http://blini.io) é Desenvolvedor de Softwares há 13 anos, especialista em Front-end, com experiência internacional  em diversos países e idealizador da comunidade DEV-PP.
 
