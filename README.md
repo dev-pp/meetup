@@ -83,11 +83,11 @@ Presidente Prudente-SP
 
 # Organizadores
 
-Felipe Blini - [https://blini.io](https://blini.io)  
+Felipe Blini - [http://blini.io](https://blini.io)  
 João Cunha - [https://joaocunha.net](https://joaocunha.net)  
 Gustavo Marquini - gustavo.marquini@foregon.com  
 Marcelo Vieira - https://www.facebook.com/Marcelinhomvieira  
-Renan Pupin - https://www.linkedin.com/in/renanpupin/
+Renan Pupin - https://www.linkedin.com/in/renanpupin/  
 Thiago Otávio de Freitas - thbahia@outlook.com  
 
 # Apoio
