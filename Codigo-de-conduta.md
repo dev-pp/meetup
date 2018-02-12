@@ -6,7 +6,7 @@ para ajudar a garantir um ambiente seguro para todos.
   
 ## Precisa de ajuda?
 
-Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.com.br
+Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.tech
   
 ## Versão rápida
 
@@ -52,5 +52,5 @@ respeitado.
 Esperamos que os participantes sigam estas regras durante os encontros, além de eventos sociais relacionados, como after-parties,
 happy-hours ou jantares.
 
-Este Código de Conduta foi traduzido e adaptado de: http://confcodeofconduct.com/">http://confcodeofconduct.com/  
+Este Código de Conduta foi traduzido e adaptado de: [confcodeofconduct.com](http://confcodeofconduct.com/)  
 Esta obra está licenciada sob [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
