@@ -1,6 +1,6 @@
 ![DEV PP Comunidade de Desenvolvedores de Presidente Prudente/SP e Região](http://res.cloudinary.com/dwtuxv53y/image/upload/v1516297541/dev-pp-cover_zr7urz.jpg)
 
-**AVISO**: Esse repositório foi descontinuado, todas as informações e lista de eventos estão em nosso site http://devpp.com.br/
+#📢📢📢**AVISO**: Esse repositório foi descontinuado, todas as informações e lista de eventos estão em nosso site http://devpp.com.br/
 
 # DEV PP
 Comunidade de Desenvolvedores de Presidente Prudente/SP e Região http://devpp.com.br
