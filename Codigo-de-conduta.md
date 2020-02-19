@@ -6,11 +6,11 @@ para ajudar a garantir um ambiente seguro para todos.
   
 ## Precisa de ajuda?
 
-Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.tech
+Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.com.br
   
 ## Versão rápida
 
-Todos os encontros da Dev PP são dedicadas a fornecer uma experiência de encontros livres de assédio para
+Todos os encontros da Dev PP são dedicados a fornecer uma experiência de encontros livres de assédio para
 todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física,
 tamanho corporal, cor de pele, etnia, religião (ou falta dela) ou escolhas de tecnologias. Nós não toleramos o assédio aos participantes,
 sob qualquer forma.
@@ -42,8 +42,7 @@ Caso queira contribuir ou ache necessário mexer em algum equipamento que perten
 cadeiras e poltronas, interfone, microfones, cozinha e seus utensílios e qualquer tipo de patrimônio que não lhe pertença deverá ser autorizado
 pela organização do evento, caso contrário será sujeito à cobrança de valores cabíveis a qualquer dano que seja encontrado.
 
-Caso encontre qualquer objeto ou equipamento abandonado, perdido ou aparentemente sem dono a organizaçãpo deverá ser avisado imediatamente
-para anúncio no microfone.
+Caso encontre qualquer objeto ou equipamento abandonado, perdido ou aparentemente sem dono a organização deverá ser avisada imediatamente para anúncio no microfone.
 
 A equipe organizadora estará disposta em todos os eventos a auxiliar os participantes no que for preciso para garantir a segurança de todos,
 Nós valorizamos a sua participação e queremos que aproveite o máximo possível, sinta-se à vontade e em segurança, e acima de tudo,
