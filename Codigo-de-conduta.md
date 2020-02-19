@@ -42,8 +42,7 @@ Caso queira contribuir ou ache necessário mexer em algum equipamento que perten
 cadeiras e poltronas, interfone, microfones, cozinha e seus utensílios e qualquer tipo de patrimônio que não lhe pertença deverá ser autorizado
 pela organização do evento, caso contrário será sujeito à cobrança de valores cabíveis a qualquer dano que seja encontrado.
 
-Caso encontre qualquer objeto ou equipamento abandonado, perdido ou aparentemente sem dono a organizaçãpo deverá ser avisado imediatamente
-para anúncio no microfone.
+Caso encontre qualquer objeto ou equipamento abandonado, perdido ou aparentemente sem dono a organização deverá ser avisada imediatamente para anúncio no microfone.
 
 A equipe organizadora estará disposta em todos os eventos a auxiliar os participantes no que for preciso para garantir a segurança de todos,
 Nós valorizamos a sua participação e queremos que aproveite o máximo possível, sinta-se à vontade e em segurança, e acima de tudo,
