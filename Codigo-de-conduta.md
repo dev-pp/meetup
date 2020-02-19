@@ -10,7 +10,7 @@ Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos 
   
 ## Versão rápida
 
-Todos os encontros da Dev PP são dedicadas a fornecer uma experiência de encontros livres de assédio para
+Todos os encontros da Dev PP são dedicados a fornecer uma experiência de encontros livres de assédio para
 todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física,
 tamanho corporal, cor de pele, etnia, religião (ou falta dela) ou escolhas de tecnologias. Nós não toleramos o assédio aos participantes,
 sob qualquer forma.
