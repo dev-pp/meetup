@@ -6,7 +6,7 @@ para ajudar a garantir um ambiente seguro para todos.
   
 ## Precisa de ajuda?
 
-Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.tech
+Caso tenha alguma dúvida ou sugestão, você encontra todos os nossos contatos no site oficial da comunidade http://devpp.com.br
   
 ## Versão rápida
 
